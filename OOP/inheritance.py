@@ -83,7 +83,7 @@ super.__init__()
 
 
 Second, call the parent's init method explicitly and pass in the arguments in interest.
-Employee.init(self, first, last, )
+Employee.init(self, first, last)
 
 
 5. Useful tools when exploring the inheritance system.
